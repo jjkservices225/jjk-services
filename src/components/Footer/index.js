@@ -79,19 +79,19 @@ const Footer = () => {
             </WebsiteRights>
             <SocialIcons>
               <SocialIconLink
-                href="https://www.facebook.com/profile.php?id=100004654455069"
+                href="https://www.facebook.com/profile.php?id=61550491021183"
                 target="_blank"
                 aria-label="Facebook">
                 <FaFacebook />
               </SocialIconLink>
               <SocialIconLink
-                href="https://www.instagram.com/jeanjacqueskouamekouassi/"
+                href="https://www.instagram.com/jjkdevtech/"
                 target="_blank"
                 aria-label="Instagram">
                 <FaInstagram />
               </SocialIconLink>
               <SocialIconLink
-                href="https://www.linkedin.com/in/jean-jacques-kouam%C3%A9-kouassi-5515a5273/"
+                href="https://www.linkedin.com/in/jean-jacques-kouam%C3%A9-5515a5273/"
                 target="_blank"
                 aria-label="Linkedin">
                 <FaLinkedin />
